@@ -1,11 +1,12 @@
-.test{
-  text-align: center;
-  &__box{
-    margin: 0;
-  }
+body{
+  margin: 0;
+  overflow: hidden;
 }
 
-.main{
-  margin: 0;
+main{
   padding: 0;
+}
+
+.menu{
+  padding-left: 45px;
 }
